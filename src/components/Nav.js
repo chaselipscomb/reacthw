@@ -1,7 +1,7 @@
 import React from "react";
 import SearchBox from "./SearchBox.js";
 import "../styles/Nav.css";
-
+// function Nav Component
 function Nav({ handleSearchChange }) {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
