@@ -5,6 +5,7 @@ function SearchBox({ handleSearchChange }) {
   return (
     <div className="searchbox">
       <form className="form-inline">
+        {/* Input for search term */}
         <input
           className="form-control mr-sm-2"
           type="search"
