@@ -3,7 +3,7 @@ import DataTable from "./DataTable";
 import Nav from "./Nav";
 import API from "../utils/API";
 import "../styles/DataArea.css";
-
+// Data Area comment extends Component
 export default class DataArea extends Component {
   constructor() {
     super();
